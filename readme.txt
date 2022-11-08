@@ -7,5 +7,4 @@ Site is responsive with a nice unique layout, wpbakery is good on UI.
 Custom elements and templates have been built from scratch on this project.
 
 Live URL available on https://techaccessories.co.za/sovtech
-username:admin
-Password: Agent47Hitm@n
+
